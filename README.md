@@ -1,4 +1,4 @@
-# Contribution [#]: [1]
+# Contribution [#1]: [1]
 
 **Contribution Number:** [1]  
 **Student:** [Patrick Bailon]  
