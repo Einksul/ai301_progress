@@ -99,14 +99,15 @@ list editing is handled
 
 ### Unit Tests
 
-- [ ] Test case 1: [Description]
-- [ ] Test case 2: [Description]
-- [ ] Test case 3: [Description]
+- [ ] Test case 1: Ensure that the textbox pops up when adding a Tracker
+- [ ] Test case 2: Test whether each tracker get correctly added and show up in the gui
+- [ ] Test case 3: Make sure the input gets parsed and tested correctly. Any error messages should be synced between Qt 
+and Gtk
 
 ### Integration Tests
 
-- [ ] Integration scenario 1
-- [ ] Integration scenario 2
+- [ ] Integration scenario 1: Make sure that the trackers are actually added in the backend
+- [ ] Integration scenario 2: Make sure that switching between backup trackers is correctly handled
 
 ### Manual Testing
 
