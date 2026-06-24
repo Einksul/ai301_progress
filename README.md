@@ -117,9 +117,11 @@ and Gtk
 
 ## Implementation Notes
 
-### Week [X] Progress
+### Week 1 Progress
 
-[What you built this week, challenges faced, decisions made]
+- I didn't spend time in phase 3 yet. I had to catch up on weeks 1 and 2. 
+- I spend time looking at the backend to get an idea of how everything is called. I used claude to help with the 
+tracing. I will focus on the actual UI and see if there are any specifics with Qt that I need to know of. 
 
 ### Week [Y] Progress
 
